@@ -1,0 +1,16 @@
+{
+  "steam_api_key": "",
+  "steam_input": "",
+  "steam_id64": "",
+  "faceit_api_key": "",
+  "faceit_nickname": "",
+  "dota_account_id": "",
+  "riot_api_key": "",
+  "riot_id": "",
+  "riot_routing": "europe",
+  "riot_platform": "euw1",
+  "show_cs2": true,
+  "show_dota": true,
+  "show_lol": true,
+  "steam_cookie": ""
+}
